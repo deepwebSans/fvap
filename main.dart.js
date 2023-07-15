@@ -22423,6 +22423,7 @@ A.dg(q,"-moz-user-select",j)
 A.dg(q,"touch-action",j)
 A.dg(q,"font","normal normal 14px sans-serif")
 A.dg(q,"color","red")
+A.dg(q,"background-color","black")
 q.spellcheck=!1
 for(g=new A.ul(e.head.querySelectorAll('meta[name="viewport"]'),t.xl),g=new A.fd(g,g.gq(g));g.A();){s=g.d
 r=s.parentNode
@@ -69309,7 +69310,7 @@ CK(){return this.c.$0()}}
 A.PN.prototype={
 G(a,b){var s,r,q,p,o,n,m,l=this,k=null,j="columbiaserialmediumregular"
 b.O(t.w).toString
-s=A.h0(k,B.aE,new A.dO("https://pbs.twimg.com/media/E4B8g1NVgAQVOQ6?format=jpg&name=4096x4096",1,k),B.ao,1)
+s=A.h0(k,B.aE,new A.dO("",1,k),B.ao,1)
 r=A.U(176,0,0,0)
 q=A.lz(B.e,1)
 p=A.ZY("lib/assets/images/ORDEM LOGO.png",100)
@@ -69371,7 +69372,7 @@ CK(){return this.c.$0()}}
 A.Qw.prototype={
 G(a,b){var s,r,q,p,o,n,m,l,k=this,j=null,i="columbiaserialmediumregular"
 b.O(t.w).toString
-s=A.h0(j,B.aE,new A.dO("https://pbs.twimg.com/media/E3JfBXkXMAkL5KX?format=jpg&name=4096x4096",1,j),B.ao,1)
+s=A.h0(j,B.aE,new A.dO("",1,j),B.ao,1)
 r=A.U(176,0,0,0)
 q=A.lz(B.e,1)
 p=A.ZY("lib/assets/images/ORDEM LOGO.png",100)
@@ -69524,7 +69525,7 @@ b=s.at
 new A.cX(i,h).df(e,c,d,q,s.as,o,r,b,p,g,s.c,i)
 i=A.U(255,0,0,0)
 g=A.U(8,0,0,0).a
-g=A.h0(new A.vX(A.U(5,g>>>16&255,g>>>8&255,g&255),B.wB),c5,new A.dO("https://cdn.discordapp.com/attachments/928243178669240330/992860036751708200/unknown.png",1,c5),B.nc,1)
+g=A.h0(new A.vX(A.U(5,g>>>16&255,g>>>8&255,g&255),B.wB),c5,new A.dO("",1,c5),B.nc,1)
 b=A.U(255,6,6,6)
 d=A.U(255,255,255,255)
 d=A.qf(A.U(255,0,0,0),d,new A.ad2(k),new A.jN(new A.ad3(),B.l,1,B.m),0,k.f)
@@ -69909,12 +69910,12 @@ r.r=r.w=r.z=r.Q=r.y=r.x=0
 A.pV(new A.acW(r,s.c,s.d),s.b,t.z)},
 $S:2}
 A.acW.prototype={
-$1(a){var s,r=null,q="columbiaserialmediumregular",p=t.t,o=A.cq(A.c([A.bq(A.c([A.aw("Adicione ou Remova SAN",r,r,r,A.X(r,r,B.e,r,r,r,r,r,q,r,r,25,r,B.aR,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.dz(!1,r,!0,A.dL(B.bI,B.e,28),r,!0,r,r,r,r,r,r,r,r,r,new A.acO(a),r,r,r)],p),B.p,B.au,B.r),A.nx(B.e,r)],p),B.p,B.u,B.r),n=A.X(r,r,B.e,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),m=$.EO(),l=t.a8,k=A.c([m],l),j=this.a
-n=A.f1(r,B.e,A.dM(r,r,r,r,r,r,r,r,!0,new A.ba(4,B.C,new A.a3(B.e,1,B.m)),r,r,r,r,r,r,r,r,r,r,new A.ba(4,B.C,new A.a3(B.e,1,B.m)),r,r,r,r,r,A.X(r,r,B.ah,r,r,r,r,r,q,r,r,20,r,r,r,r,!0,r,r,r,r,r,r,r,r),"SAN Atual",r,r,r,r,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r),r,k,B.bv,!1,new A.acP(j),n,r)
+$1(a){var s,r=null,q="columbiaserialmediumregular",p=t.t,o=A.cq(A.c([A.bq(A.c([A.aw("Adicione ou Remova PM",r,r,r,A.X(r,r,B.e,r,r,r,r,r,q,r,r,25,r,B.aR,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.dz(!1,r,!0,A.dL(B.bI,B.e,28),r,!0,r,r,r,r,r,r,r,r,r,new A.acO(a),r,r,r)],p),B.p,B.au,B.r),A.nx(B.e,r)],p),B.p,B.u,B.r),n=A.X(r,r,B.e,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),m=$.EO(),l=t.a8,k=A.c([m],l),j=this.a
+n=A.f1(r,B.e,A.dM(r,r,r,r,r,r,r,r,!0,new A.ba(4,B.C,new A.a3(B.e,1,B.m)),r,r,r,r,r,r,r,r,r,r,new A.ba(4,B.C,new A.a3(B.e,1,B.m)),r,r,r,r,r,A.X(r,r,B.ah,r,r,r,r,r,q,r,r,20,r,r,r,r,!0,r,r,r,r,r,r,r,r),"MP Atual",r,r,r,r,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r),r,k,B.bv,!1,new A.acP(j),n,r)
 k=A.b0(r,20,r)
 s=A.X(r,r,B.e,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r)
 l=A.c([m],l)
-s=A.aX(r,A.cq(A.c([n,k,A.f1(r,B.e,A.dM(r,r,r,r,r,r,r,r,!0,new A.ba(4,B.C,new A.a3(B.e,1,B.m)),r,r,r,r,r,r,r,r,r,r,new A.ba(4,B.C,new A.a3(B.e,1,B.m)),r,r,r,r,r,A.X(r,r,B.ah,r,r,r,r,r,q,r,r,20,r,r,r,r,!0,r,r,r,r,r,r,r,r),"SAN Maxima",r,r,r,r,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r),r,l,B.bv,!1,new A.acQ(j),s,r)],p),B.p,B.u,B.r),B.n,r,r,r,r,150,r,r,r,r,r,450)
+s=A.aX(r,A.cq(A.c([n,k,A.f1(r,B.e,A.dM(r,r,r,r,r,r,r,r,!0,new A.ba(4,B.C,new A.a3(B.e,1,B.m)),r,r,r,r,r,r,r,r,r,r,new A.ba(4,B.C,new A.a3(B.e,1,B.m)),r,r,r,r,r,A.X(r,r,B.ah,r,r,r,r,r,q,r,r,20,r,r,r,r,!0,r,r,r,r,r,r,r,r),"MP Maxima",r,r,r,r,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r),r,l,B.bv,!1,new A.acQ(j),s,r)],p),B.p,B.u,B.r),B.n,r,r,r,r,150,r,r,r,r,r,450)
 l=this.b
 k=this.c
 return A.n5(A.c([A.bq(A.c([A.bq(A.c([A.h5(A.aw("Resetar",r,r,r,A.X(r,r,B.e,r,r,r,r,r,q,r,r,25,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),B.l,new A.acR(j,l,k),new A.bh(B.O,new A.a3(B.e,1,B.m)),B.l)],p),B.p,B.u,B.r),A.bq(A.c([A.h5(A.aw("Remover",r,r,r,A.X(r,r,B.e,r,r,r,r,r,q,r,r,25,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),B.l,new A.acS(j,l,k,a),new A.bh(B.O,new A.a3(B.e,1,B.m)),B.l),A.b0(r,r,10),A.h5(A.aw("Adicionar",r,r,r,A.X(r,r,B.e,r,r,r,r,r,q,r,r,25,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),B.l,new A.acx(j,l,k,a),new A.bh(B.O,new A.a3(B.e,1,B.m)),B.l)],p),B.p,B.u,B.r)],p),B.p,B.au,B.r)],p),B.l,s,new A.bh(B.O,new A.a3(B.e,1,B.m)),o)},
