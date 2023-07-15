@@ -22919,11 +22919,11 @@ o.backgroundColor=i==null?"":i
 break
 case 2:case 6:o.position=j
 i=a.a.src
-o.backgroundImage="url('"+A.d(i)+"')"
+//o.backgroundImage="url('"+A.d(i)+"')"
 break
 default:o.position=j
 i=a.a.src
-o.backgroundImage="url('"+A.d(i)+"')"
+//o.backgroundImage="url('"+A.d(i)+"')"
 i=A.aj6(c)
 if(i==null)i=""
 B.h.al(o,B.h.Z(o,"background-blend-mode"),i,"")
